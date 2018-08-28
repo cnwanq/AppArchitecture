@@ -1,15 +1,13 @@
 //
-//  ViewController.h
+//  MVVMUser.m
 //  AppArchitecture
 //
 //  Created by wanqijian on 2018/8/26.
 //  Copyright © 2018 wanqijian. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import "MVVMUser.h"
 
-@interface ViewController : UITableViewController
-
+@implementation MVVMUser
 
 @end
-

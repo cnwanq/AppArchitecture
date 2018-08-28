@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  MVVMViewController.h
 //  AppArchitecture
 //
 //  Created by wanqijian on 2018/8/26.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UITableViewController
-
+@interface MVVMViewController : UIViewController
 
 @end
-

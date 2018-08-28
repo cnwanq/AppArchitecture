@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  MVVMLoginView.h
 //  AppArchitecture
 //
 //  Created by wanqijian on 2018/8/26.
@@ -7,9 +7,10 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "MVVMUserVM.h"
 
-@interface ViewController : UITableViewController
+@interface MVVMLoginView : UIView
 
+@property (nonatomic, strong) MVVMUserVM *userVM;
 
 @end
-
